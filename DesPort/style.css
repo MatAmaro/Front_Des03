@@ -1,0 +1,45 @@
+main{
+    background-color: cornsilk;
+}
+
+
+header{
+    width: 480px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.foto{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
+.sobre{
+    width: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.redes{
+    list-style-type:none;
+    width: 200px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.Icon{
+    width: 25px;
+    height: auto;
+}
+
+footer{
+    background-color:blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+
+}
